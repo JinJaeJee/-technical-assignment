@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/JinJaeJee/movie-app-backend
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:JinJaeJee/movie-app-frontend.git
